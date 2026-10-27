@@ -1,0 +1,183 @@
+                    GNU GENERAL PUBLIC LICENSE
+                       Version 3, 29 June 2007
+
+ Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+ Everyone is permitted to copy and distribute verbatim copies
+ of this license document, but changing it is not allowed.
+
+                            Preamble
+
+  The GNU General Public License is a free, copyleft license for
+software and other kinds of works, designed to ensure that, to the
+best of our ability, users can enjoy the freedoms listed at the
+start of this document.  Our design is shaped by years of experience
+to fight what we have seen is one of the most frequent ways that
+software is made proprietary—through indirect means.  The long and
+elaborate measures are not a symptom of bad intentions; they are a
+reaction to sustained measures that have been used for decades to
+restrict users' freedom.
+
+  With the GNU General Public License, users of a program have the
+freedom to run it for any purpose, to study how it works, to adapt
+it to their needs, to share copies with others, and to publish
+modified versions—provided they honor the conditions that protect
+users' freedom: they must provide the source code, preserve rights
+notices, and not use the program to restrict others' freedoms.
+
+  This license is designed to protect those freedoms for all users,
+including in distributed or networked applications, by requiring
+that any distributed or publicly accessible version must carry the
+same freedoms.
+
+                            TERMS AND CONDITIONS
+
+  0. Definitions.
+
+  "This License" refers to version 3 of the GNU General Public License.
+
+  "Copyright" also means copyright-like laws that apply to other kinds
+of works, such as semiconductor masks.
+
+  "The Program" refers to any copyrightable work licensed under this
+License.
+
+  "You" (or "your") means any individual or legal entity exercising
+rights under this License.  For legal entities, "you" includes any
+entity that controls, is controlled by, or is under common control
+with you, but does not include independent entities.
+
+  "Source" form means the preferred form for making modifications,
+including software source code, definition files, configuration
+scripts, and documentation describing how to build and install.
+
+  "Object" form means any form other than Source, such as compiled
+code, generated documentation, or compressed archives.
+
+  A "Standard Interface" means an interface that either is an official
+standard defined by a recognized standards body, or, in the case of
+interfaces specified for a particular programming language, one that
+is widely used among developers working in that language.
+
+  The "System Libraries" of an executable work include, other than
+the work as a whole, anything other than the work that (a) is included
+in the normal form of packaging a Major Component, and (b) serves
+only to enable use of the work with that Major Component, or to
+implement a Standard Interface for which an implementation is
+available to the public in source code form.
+
+  A "Major Component", in this context, means a major essential
+component (kernel, window system, and so on) of the specific
+operating system (if any) on which the executable work runs, or a
+compiler used to produce the work, or an object code interpreter
+used to run it.
+
+  "The Corresponding Source" for a work means all source code needed
+to generate or reproduce the work—whether in Source or Object form.
+
+  1. Source Code.
+
+     The source code for a work is defined as above.  For executable
+works, the source code is all the source needed to generate the exact
+binary—including scripts controlling compilation and installation,
+plus interface definitions for libraries used.
+
+  2. Basic Permissions.
+
+     All rights granted under this License are granted for the term of
+copyright on the Program, and are irrevocable provided conditions are
+met.  The exercise of these rights by you requires that you receive
+this License and accept its terms.
+
+  3. Protecting Users' Legal Rights From Anti-Circumvention Law.
+
+     No party who conveys the Program must impose legal terms that
+restrict users' rights under this License (such as DRM schemes).
+
+  4. Conveying Verbatim Copies.
+
+     You may copy and distribute verbatim copies of the Program in any
+medium, provided you keep all notices intact.
+
+  5. Conveying Modified Source Versions.
+
+     You must license modified versions under this License, provide
+source, and include notices of changes.
+
+  6. Conveying Non-Source Forms.
+
+     You may distribute compiled forms if you provide source and a
+written offer valid for at least three years.
+
+  7. Additional Terms.
+
+     Additional permissions are allowed if they are compatible and do
+not restrict others' freedoms.
+
+  8. Termination.
+
+     Violating this License terminates your rights, but recipients
+who got copies from you before termination keep their rights.
+
+  9. Acceptance Not Required for Having Copies.
+
+     You do not need to accept this License to receive or run a
+copy, but your rights are still governed by it.
+
+  10. Automatic Licensing of Downstream Recipients.
+
+     Each recipient automatically receives a license from the original
+licensor.
+
+  11. Patents.
+
+     Contributors grant a license to any patents they hold that read
+on contributions.
+
+  12. No Warranty.
+
+     The Program is provided WITHOUT WARRANTY, to the extent permitted
+by law.
+
+  13. Limitation of Liability.
+
+     In no event shall authors be liable for damages arising from use,
+except for willful misconduct or violations of applicable law.
+
+  14. Interpretation of Sections 13 and 15.
+
+     If warranty or liability provisions are not enforceable under
+local law, courts should apply the closest enforceable interpretations.
+
+                     How to Apply These Terms to Your New Programs
+
+  If you develop a new program and want to make it useful to the public,
+you should release it under this License so users can enjoy freedom.
+
+  Add the following notice near the top of each source file:
+
+    Copyright (C) 2026 file-receiver contributors
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program; if not, see <https://www.gnu.org/licenses/>.
+
+Also add a "CHANGELOG" or "HISTORY" file describing changes, and a
+"COPYING" link to this full license text.
+
+If the Program interacts with users via network (e.g., server), include
+in its UI or docs a reference to the license and where to find source.
+
+  The GNU General Public License does not permit adding further
+restrictions (such as DRM or patent claims) that would make the work
+non-free.
+
+  End of GNU GPL v3 text.
