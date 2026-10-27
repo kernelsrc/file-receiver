@@ -1,20 +1,16 @@
-CC = gcc
-CFLAGS = -Wall -Wextra -O2 -std=c11
-LDFLAGS =
+BINARY = file-receiver
 
-TARGET = server
-SRCS = server.c
-OBJS = $(SRCS:.c=.o)
+all:
+	go build -o $(BINARY) .
 
-all: $(TARGET)
+install:
+	mkdir -p $(HOME)/.local/bin
+	go build -o $(HOME)/.local/bin/$(BINARY) .
 
-$(TARGET): $(OBJS)
-	$(CC) $(CFLAGS) -o $@ $^ $(LDFLAGS)
-
-%.o: %.c
-	$(CC) $(CFLAGS) -c $< -o $@
+run:
+	go run .
 
 clean:
-	rm -f $(OBJS) $(TARGET)
+	rm -f server $(BINARY)
 
-.PHONY: all clean
+.PHONY: all install run clean
